@@ -129,7 +129,12 @@ html,
             }
             .content{
                 max-width: 630px;
+<<<<<<< HEAD
                 min-width: 230px;
+=======
+                min-width: 120px;
+		
+>>>>>>> branch2
             }
         }
 
