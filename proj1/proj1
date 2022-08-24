@@ -130,8 +130,6 @@ html,
             .content{
                 max-width: 630px;
                 min-width: 630px;
-		min-width: 420px:
-		max-width: 420px;
-            }
+		            }
         }
 
