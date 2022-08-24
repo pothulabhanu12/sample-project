@@ -129,7 +129,12 @@ html,
             }
             .content{
                 max-width: 630px;
-		 min-width: 1111111111120px;
+<<<<<<< Updated upstream
+                min-width: 420px;
+=======
+                min-width: 120px;
+	
+>>>>>>> Stashed changes
             }
         }
 

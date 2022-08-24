@@ -129,8 +129,8 @@ html,
             }
             .content{
                 max-width: 630px;
-		 min-width: 1111111111120px;
+                min-width: 120px;
+		
             }
         }
-
 
